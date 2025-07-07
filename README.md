@@ -95,6 +95,7 @@
 
 ![H2](https://img.shields.io/badge/H2-1A73E8?style=flat-square)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 Java 17 (OpenJDK 17)
 
