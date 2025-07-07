@@ -49,54 +49,58 @@
 
 # 3. Technology Stack (기술 스택)
 
-## Language
 
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
-## Version Control
+### Language
+![Java 21](https://img.shields.io/badge/Java_21-007396?style=flat-square&logo=openjdk&logoColor=white)
+
+### Version Control
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 
-## JDK Version
+### Interface Description Language
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 
-![Java 21](https://img.shields.io/badge/Java_21-007396?style=flat-square&logo=openjdk&logoColor=white)
-
-## Backend
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
+### Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.5-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-59666C?style=flat-square&logo=hibernate)
+![Spring Boot Web](https://img.shields.io/badge/Spring_Boot_Web-6DB33F?style=flat-square&logo=spring)
+![Spring Validation](https://img.shields.io/badge/Spring_Validation-6DB33F?style=flat-square&logo=spring)
+![Spring Cloud Gateway](https://img.shields.io/badge/Spring_Cloud_Gateway-6DB33F?style=flat-square&logo=spring)
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-008000?style=flat-square)
+![Lombok](https://img.shields.io/badge/Lombok-ED1C24?style=flat-square&logo=lombok)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle)
-![Lombok](https://img.shields.io/badge/Lombok-ED1C24?style=flat-square&logo=apache)
 
-## Security
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
-
-## Deployment & Distribution
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-## Communication
-
-![Spring Cloud OpenFeign](https://img.shields.io/badge/OpenFeign-007396?style=flat-square)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-
-## Monitoring
-
+### Monitoring
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-## Database
+### Security
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![BCrypt](https://img.shields.io/badge/BCrypt-E6772E?style=flat-square)
 
+### Deployment & Distribution
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=flat-square&logo=docker)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-232F3E?style=flat-square&logo=amazonaws)
+
+### API Communication
+![Spring Cloud OpenFeign](https://img.shields.io/badge/OpenFeign-007396?style=flat-square)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/AWS_SQS-FF4F8B?style=flat-square&logo=amazonaws)
+![AWS SNS](https://img.shields.io/badge/AWS_SNS-FF9900?style=flat-square&logo=amazonaws)
+
+### Database
 ![H2](https://img.shields.io/badge/H2-1A73E8?style=flat-square)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
 
 
 <br/>
