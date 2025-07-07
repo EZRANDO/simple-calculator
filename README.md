@@ -61,32 +61,38 @@
 
 ## JDK Version
 
-### Backend
+## Backend
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-008000?style=flat-square)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle)
 ![Lombok](https://img.shields.io/badge/Lombok-ED1C24?style=flat-square&logo=apache)
 
-### Security
+## Security
+
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
 
-### Deployment & Distribution
+## Deployment & Distribution
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-### Communication
+## Communication
+
 ![Spring Cloud OpenFeign](https://img.shields.io/badge/OpenFeign-007396?style=flat-square)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
-### Monitoring
+## Monitoring
+
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-### Database
+## Database
+
 ![H2](https://img.shields.io/badge/H2-1A73E8?style=flat-square)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square)
 
