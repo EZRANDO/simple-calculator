@@ -51,7 +51,7 @@
 
 
 
-### - Language
+### -Language
 ![Java 21](https://img.shields.io/badge/Java_21-007396?style=flat-square&logo=openjdk&logoColor=white)
 
 ### Version Control
