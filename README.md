@@ -61,6 +61,8 @@
 
 ## JDK Version
 
+![Java 17](https://img.shields.io/badge/Java_17-007396?style=flat-square&logo=openjdk&logoColor=white)
+
 ## Backend
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
@@ -97,7 +99,6 @@
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-Java 17 (OpenJDK 17)
 
 
 <br/>
